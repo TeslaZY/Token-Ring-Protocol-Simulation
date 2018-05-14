@@ -1,0 +1,10 @@
+C:\Users\TeslaZY\documents\visual studio 2017\Projects\TokenBusPractice\TokenBusPractice\bin\Debug\TokenBusPractice.exe.config
+C:\Users\TeslaZY\documents\visual studio 2017\Projects\TokenBusPractice\TokenBusPractice\bin\Debug\TokenBusPractice.exe
+C:\Users\TeslaZY\documents\visual studio 2017\Projects\TokenBusPractice\TokenBusPractice\bin\Debug\TokenBusPractice.pdb
+C:\Users\TeslaZY\documents\visual studio 2017\Projects\TokenBusPractice\TokenBusPractice\obj\Debug\TokenBusPractice.csprojResolveAssemblyReference.cache
+C:\Users\TeslaZY\documents\visual studio 2017\Projects\TokenBusPractice\TokenBusPractice\obj\Debug\TokenBusPractice.HostForm.resources
+C:\Users\TeslaZY\documents\visual studio 2017\Projects\TokenBusPractice\TokenBusPractice\obj\Debug\TokenBusPractice.Properties.Resources.resources
+C:\Users\TeslaZY\documents\visual studio 2017\Projects\TokenBusPractice\TokenBusPractice\obj\Debug\TokenBusPractice.csproj.GenerateResource.Cache
+C:\Users\TeslaZY\documents\visual studio 2017\Projects\TokenBusPractice\TokenBusPractice\obj\Debug\TokenBusPractice.exe
+C:\Users\TeslaZY\documents\visual studio 2017\Projects\TokenBusPractice\TokenBusPractice\obj\Debug\TokenBusPractice.pdb
+C:\Users\TeslaZY\documents\visual studio 2017\Projects\TokenBusPractice\TokenBusPractice\obj\Debug\TokenBusPractice.Start.resources
